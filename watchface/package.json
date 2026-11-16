@@ -1,0 +1,81 @@
+{
+  "name": "betime-watch",
+  "version": "0.4.1",
+  "private": true,
+  "author": "Daniel Bally",
+  "keywords": [
+    "pebble-app"
+  ],
+  "pebble": {
+    "displayName": "BeTime",
+    "uuid": "f4d2048a-62f7-4642-9997-5a6967da1ff8",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery",
+      "gabbro",
+      "diorite",
+      "flint",
+      "basalt",
+      "chalk"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "configurable",
+      "health",
+      "location"
+    ],
+    "messageKeys": [
+      "Palette",
+      "Background",
+      "WindowColor",
+      "TextColor",
+      "AccentColor",
+      "TimeFormat",
+      "DateFormat",
+      "LeftTile",
+      "MiddleTile",
+      "RightTile",
+      "TemperatureUnit",
+      "WorldCity",
+      "WeatherAt",
+      "Temperature",
+      "WeatherKind",
+      "ZoneCity",
+      "ZoneOffset",
+      "ZoneNextOffset",
+      "ZoneChangeAt",
+      "ZoneUntil",
+      "RefreshDesktop"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "ICON_POWER",
+          "file": "images/power.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "ICON_CALENDAR",
+          "file": "images/calendar.png"
+        },
+        {
+          "type": "bitmap",
+          "name": "ICON_CLOCK",
+          "file": "images/clock.png"
+        },
+        {
+          "type": "raw",
+          "name": "THIRD_PARTY_NOTICES",
+          "file": "raw/notices.txt"
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "@rebble/clay": "1.1.0"
+  }
+}

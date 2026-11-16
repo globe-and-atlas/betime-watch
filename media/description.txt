@@ -1,0 +1,12 @@
+A little BeOS-style desktop for your Pebble. BeTime puts the clock in a beveled window with a yellow tab and uses actual Haiku and Haiku Calendar icons.
+
+• Power shows watch battery percentage.
+• Today shows the date, with five display options including Off.
+• Clock shows seconds.
+• Choose Classic Blue, Midnight, Teal, Plum, Graphite, or Monochrome Desktop.
+• Customize the desktop, window, text, and tab colors.
+• Use the watch preference, 12-hour time, or 24-hour time.
+
+Designed for Pebble Time 2 and Pebble Round 2. Configure BeTime in the Pebble app. Time and battery work offline.
+
+Icon artwork from Haiku and Haiku Calendar is used under MIT licenses, with notices included in the watchface bundle.

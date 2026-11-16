@@ -1,0 +1,62 @@
+{
+  "app_id": "f77f655a2c9f4b72a2f39e58",
+  "name": "BeTime",
+  "url": "https://apps.repebble.com/f77f655a2c9f4b72a2f39e58",
+  "version": "0.4.0",
+  "sha256": "ac58080d3faaba70e45416f00d84517ed855eb37409721cc1e084f9c48a2993a",
+  "public_verified": true,
+  "pbw_url": "https://appstore-api.repebble.com/api/assets/pbw/f77f655a2c9f4b72a2f39e58/0.4.0/bfed596f-85d5-4390-810c-b58dee9b9bf0.pbw",
+  "galleries": {
+    "emery": {
+      "urls": [
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/emery/1f70de36-15d7-4258-b86f-6e5273d6c87f.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/emery/a6be6f99-d959-4038-92fc-61617f72b2f4.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/emery/3c4a7b9a-51aa-4530-955e-e43c81798766.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/emery/43cce1b3-edb5-4e9c-a7bc-f563a441e258.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/emery/62effdfb-79f6-4599-838f-102423fa77df.gif"
+      ],
+      "cover_sha256": "8507abfcdc60f52493c57bfcab2f7902dbb068b87f5bdcf59887efd80368c047",
+      "new_still_sha256": "1dd83b8bde35d94343787a0889caef701983e25aae3a1f2a19d8ee6ff52e6e74",
+      "new_still_pixel_exact": true,
+      "order_verified": true
+    },
+    "gabbro": {
+      "urls": [
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/gabbro/3aa43380-22b3-47c8-a71b-122bb4ab1c2a.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/gabbro/98c98630-f649-445f-97e3-34cb90cb2f04.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/gabbro/8ffafb66-db68-4376-93e7-43042fb5e217.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/gabbro/93aa8cee-f000-4bb1-94ac-0edf9fff362f.gif",
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/gabbro/9c23d0fc-fcbb-4283-b2c1-05793eb9211b.gif"
+      ],
+      "cover_sha256": "03145ef273ac02728beca037b6d6ad4b1964d0ac22b02e104a0e7b326a4cded5",
+      "new_still_sha256": "5221c317ffaec369111c4958c76dbb7a17f2965f1059625d403448d7cc1398ed",
+      "new_still_pixel_exact": true,
+      "order_verified": true
+    },
+    "diorite": {
+      "urls": [
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/diorite/ad6a032d-621d-4148-82e6-54d742f4d870.gif"
+      ],
+      "still_sha256": "2b969bd26d8364e6c77899fdeaf00dc3cffd89b1db2252063fe6c7e491cb0ec8",
+      "native_pixels_match": true,
+      "order_verified": true
+    },
+    "flint": {
+      "urls": [
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/flint/96a21870-749a-409e-88a3-b896cf1c698e.gif"
+      ],
+      "still_sha256": "2b969bd26d8364e6c77899fdeaf00dc3cffd89b1db2252063fe6c7e491cb0ec8",
+      "native_pixels_match": true,
+      "order_verified": true
+    },
+    "basalt": {
+      "urls": [
+        "https://assets.repebble.com/screenshots/f77f655a2c9f4b72a2f39e58/basalt/efcfe2f4-ed84-4f1a-996d-979b9d43201d.gif"
+      ],
+      "still_sha256": "afc11fb4024d3f2a3b1420072aebba953ad4a6a144e5300dbc599505a597948f",
+      "native_pixels_match": true,
+      "order_verified": true
+    }
+  },
+  "verified_at": "2026-11-10T11:44:41.942078-06:00"
+}

@@ -1,0 +1,1 @@
+{"date": "2026-11-08", "project": "betime-watch", "effort": "standard", "what_constrained": "Round chord clearance and long dates beneath actual icons", "what_worked": "Native layout model, compact date digits, independent matrix and production checks", "what_differently": "Inspect both bottom rows at enlarged native scale before the full matrix"}
